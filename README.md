@@ -1,5 +1,7 @@
 # 4K-Game-Launcher
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/43fd4ff273734cd0a1ac40c6ec09634b)](https://app.codacy.com/gh/Alvin4KHD-Studios/4K-Game-Launcher?utm_source=github.com&utm_medium=referral&utm_content=Alvin4KHD-Studios/4K-Game-Launcher&utm_campaign=Badge_Grade_Settings)
+
 a Game Launcher used for Beans: Source
 
 it's recommanded to use this launcher if your game is massive and you're doing only little changes to it
